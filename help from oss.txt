@@ -1,0 +1,45 @@
+1. FLEXIBILITY AND AGILITY
+IT leaders must fundamentally provide flexibility and agility for their enterprise. If you can’t compete on agility, you’re going to get left behind by the competition. Open source enables technology agility, typically offering multiple ways to solve problems. Open source helps keep your IT organization from getting blocked because a particular capability isn’t available from a vendor. Instead of waiting for the vendor to deliver that capability, you can create it yourself.
+
+[ Want a more agile culture? Get the digital transformation eBook: Teaching an elephant to dance. ]
+
+As another example, today I could stand up an OpenStack instance, a Red Hat Enterprise Linux instance or the community equivalent thereof, or a MongoDB instance, and I could do it on my own with the open source software available freely over the Internet. I could start building a project, or a platform, or testing feasibility or developing my skills.
+
+If I were to attempt to do that with similar proprietary products from VMware or Microsoft or Oracle, I would spend days or weeks simply negotiating terms and conditions and fees just to get started. Or, at a minimum, I’d at least have to go through an extensive process to sign off on some sort of pilot project with their sales organization.  
+
+2. SPEED
+Your enterprise will soon be competing on speed, if it isn’t already. Open source enables speed. A great advantage of open source is the ability to take the community versions, get started, understand whether they can solve your business problem, and begin to deliver value right away. Once you make that determination, professional support and services are increasingly available for open source products, especially those supported by Red Hat.
+
+This allows you to get the best of both worlds — flexibility, agility, and the ability to get started quickly and inexpensively, with the ability to mature to a large scale, fully supported, enterprise-grade implementation, and you don’t have to go over proprietary licensing hurdles to get there.
+
+[ Frustrated with your team's pace? Read our related article, AT&T CIO Pam Parisian: How to gain speed and cut technical debt. ]
+
+3. COST-EFFECTIVENESS
+Open source is generally much more cost-effective than a proprietary solution. Not only are open source solutions typically much more inexpensive in an enterprise environment for equivalent or superior capability, but they also give enterprises the ability to start small and scale (more on that coming up). Given that enterprises are often budget challenged, it just makes financial sense to explore open source solutions.
+
+4. ABILITY TO START SMALL
+With open source, you can start small and quickly with community versions, and then migrate to a commercially-supported solution as your business requirements drive you there. If the project doesn’t require support, you can continue on the community version indefinitely. You have the option to try the various alternatives, pick the one that’s going to work, and then scale up with a commercial solution.  
+
+5. SOLID INFORMATION SECURITY
+Commercial open source has a solid information security record in a dangerous world. Obviously, it’s difficult to claim security superiority for any solution and it’s a challenging environment for all of us, but the responsiveness of the open source community and vendors relative to information security problems has been very good. The fact that we’ve had eyes on code that in some cases is decades old, and we were able to identify and fix problems when they became apparent, rather than have the code molder in a proprietary environment where few knew about the exposure but some were exploiting it, is an advantage of open source.
+
+[ Is your organization vulnerable? Read our related article, 12 bad enterprise security habits to break. ]
+
+6. ATTRACT BETTER TALENT
+Open source gives enterprises the ability to attract better talent. Most professional technologists are well aware of open source and many believe it’s where the industry is headed. Many enjoy creating their own projects and having the ability to interact with others outside their enterprise to develop solutions. Giving developers flexibility and freedom can be an important tool in attracting better talent.
+
+[ Are you a DevOps/Agile job seeker or hiring manager? Get our free eBook: The Ultimate DevOps Hiring Guide. ]
+
+7. SHARE MAINTENANCE COSTS
+You can solve your enterprise problems while effectively sharing some of the maintenance costs. One of the fundamental advantages of open source is community involvement. Rather than writing an application and having to sustain it yourself, you can share the cost of maintaining and sustaining applications among multiple parties.
+
+8. THE FUTURE
+Open source is the future. Web, mobile, and cloud solutions are increasingly built predominantly on open source infrastructure. Some data and analytic solutions are only available in open source.
+
+MORE ON OPEN SOURCE
+10 ways to learn more about open source software and trends
+Open source jobs report: 3 hot skill areas now
+Disrupt or be disrupted: 3 trends enabling next-level IT agility
+Future architectures are highly likely to be based on open source, as they are today in mobile solutions with the Android platform; web solutions, where the large majority of websites are based on open source technology; and cloud solutions, where almost all, with the exception of Microsoft’s cloud, are based on open source solutions as well.
+
+Open source is a good investment in the future.
